@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+title: "Predictive Analysis"
+permalink: /predictive analysis/
 header:
   image: "/images/zakim.jpg"
 ---
