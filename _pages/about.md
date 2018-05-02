@@ -5,6 +5,7 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at machine learning, exploratory analysis, and data visualizations.
+Cubensys is a senior data scientist group who excels at machine learning, exploratory analysis, 
+Predictive analysis, and data visualizations.
 
-Etc, etc, etc
+Another else? ^__^
