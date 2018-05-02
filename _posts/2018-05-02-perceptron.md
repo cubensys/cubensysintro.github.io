@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Project: Spatial Planning"
-date: 2018-00-00
+date: 2018-05-02
 tags: [machine learning, data science, neural network, spatial analysis]
 header:
   image: "/images/perceptron/percept.jpg"
