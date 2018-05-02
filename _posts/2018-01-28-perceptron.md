@@ -1,36 +1,39 @@
 ---
-title: "Machine Learning Project: Perceptron"
-date: 2018-01-28
-tags: [machine learning, data science, neural network]
+title: "Machine Learning Project: Spatial Planning"
+date: 2018-00-00
+tags: [machine learning, data science, neural network, spatial analysis]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Machine Learning, Perceptron, Data Science"
+excerpt: "Machine Learning, Data Science, Spatial Analysis"
 mathjax: "true"
 ---
 
-# H1 Heading
+# Cubensys Spatial Planning Workforce
 
-## H2 Heading
+## Spatial Planning
 
-### H3 Heading
+### Spatial Analysis
 
-Here's some basic text.
+상권분석
 
-And here's some *italics*
+*지역별 상권 영향도 분석*
 
-Here's some **bold** text.
+**위치추천**
 
-What about a [link](https://github.com/dataoptimal)?
+What about a [link](https://github.com/cubensys)?
 
-Here's a bulleted list:
+Here's a Statistic Algorithm list:
 * First item
 + Second item
 - Third item
 
-Here's a numbered list:
+Here's a AI Model list:
 1. First
 2. Second
 3. Third
+
+
+### Sample Runs
 
 Python code block:
 ```python
